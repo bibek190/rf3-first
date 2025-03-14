@@ -15,7 +15,7 @@ root.render(
         outputColorSpace: THREE.SRGBColorSpace,
       }}
       camera={{
-        fov: 45,
+        fov: 70,
         near: 0.1,
         far: 200,
         positions: [3, 2, 6],

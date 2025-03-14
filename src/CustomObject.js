@@ -20,7 +20,7 @@ const CustomObject = () => {
 
   return (
     <>
-      <mesh>
+      <mesh scale={0.5}>
         <bufferGeometry ref={geometryRef}>
           <bufferAttribute
             attach="attributes-position"
